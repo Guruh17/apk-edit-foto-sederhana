@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Photosop Sederhana</h1>
+  <h1>Photoshop Sederhana</h1>
 
   <p>
     <b>Pada proyek kali ini saya membuat sebuah aplikasi pemrosesan citra sederhana menggunakan OpenCV</b>
@@ -32,7 +32,7 @@ Pada proyek kali ini saya membuat sebuah aplikasi pemrosesan citra sederhana den
 
 | Halaman Utama|
 
-<img src="tampilan apk.png" width="800" />
+<img src="tampilan apk.png" width="600" />
 
 ---
 
