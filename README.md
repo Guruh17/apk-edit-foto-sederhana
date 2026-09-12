@@ -7,11 +7,13 @@
   </p>
 
   <h4>
-    <a href="#-demo--tampilan">Lihat Demo</a>
+    <a href="#-tentang--proyek">Tentang Proyek</a>
     ·
-    <a href="#-instalasi">Instalasi</a>
-    ·
-    <a href="https://github.com/username/repository-name/issues/new">Laporkan Bug</a>
+    <a href="#-tampilan">Tampilan</a>
+    .
+    <a href="#-fitue">Fitur Utama</a>
+    .
+    <a href="#-teknologi--yang--digunakan">Teknologi yang Digunakan</a>
   </h4>
 
 </div>
@@ -30,7 +32,7 @@ Pada proyek kali ini saya membuat sebuah aplikasi pemrosesan citra sederhana den
 
 | Halaman Utama|
 
-| <img src="tampilan apk.png" width="800" /> | 
+<img src="tampilan apk.png" width="800" />
 
 ---
 
