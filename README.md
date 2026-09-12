@@ -1,12 +1,9 @@
 <div align="center">
 
-  <!-- Logo atau Banner Proyek -->
-  <img src="https://via.placeholder.com/150" alt="Logo Proyek" width="120" height="120" />
-
-  <h1>[Nama Proyek Anda]</h1>
+  <h1>Photosop Sederhana</h1>
 
   <p>
-    <b>Deskripsi singkat 1-2 kalimat yang menjelaskan inti dari proyek ini dan masalah apa yang diselesaikannya.</b>
+    <b>Pada proyek kali ini saya membuat sebuah aplikasi pemrosesan citra sederhana menggunakan OpenCV</b>
   </p>
 
   <h4>
@@ -25,7 +22,7 @@
 
 ## 🧐 Tentang Proyek
 
-Penjelasan lebih rinci mengenai latar belakang proyek, fitur utama, atau latar belakang pembuatan. Anda bisa menjelaskan alasan membuat proyek ini dan teknologi utama yang menjadi fondasinya.
+Pada proyek kali ini saya membuat sebuah aplikasi pemrosesan citra sederhana dengan memanfaatkan OpenCV. Aplikasinya itu sendiri berbasis gui destkop yang dibuat menggunakan Tkinter.
 
 ---
 
@@ -39,10 +36,11 @@ Penjelasan lebih rinci mengenai latar belakang proyek, fitur utama, atau latar b
 
 ## ✨ Fitur Utama
 
-- 🚀 **Performa Tinggi:** Dioptimalkan untuk kecepatan dan efisiensi.
-- 🎨 **Antarmuka Responsif:** Tampilan yang menyesuaikan di layar desktop maupun mobile.
-- 🔒 **Keamanan Terjamin:** Menggunakan autentikasi dan validasi data terenkripsi.
+- 🎨 **Antarmuka Interaktif:** Tampilan gui yang mudah dimengerti dan terdapat tombol interaktif.
 - 🛠️ **Mudah Dikonfigurasi:** Struktur kode modular yang gampang disesuaikan.
+  
+## Disclaimer!! 
+Setiap kali ingin melakukan perubahan citra pada aplikasi, pengguna harus menekan tombol "apply" untuk mempertahankan perubahan citra.
 
 ---
 
@@ -51,25 +49,15 @@ Penjelasan lebih rinci mengenai latar belakang proyek, fitur utama, atau latar b
 Daftar framework, bahasa pemrograman, atau pustaka utama:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Qt](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow/PIL-0D47A1?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-## 🚀 Instalasi
-
-Panduan langkah demi langkah untuk menjalankan proyek ini di lingkungan lokal Anda.
 
 ### Prasyarat
 
 Pastikan Anda telah menginstal dependensi berikut di perangkat Anda:
 * Python 3.9+
 * Git
-
-### Langkah Penggunaan
-
-1. **Clone repository ini**
-   ```bash
-   git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
