@@ -33,7 +33,7 @@ Penjelasan lebih rinci mengenai latar belakang proyek, fitur utama, atau latar b
 
 | Halaman Utama|
 
-| <img src="https://via.placeholder.com/400x250" width="400" /> | 
+| <img src="tampilan apk.png" width="400" /> | 
 
 ---
 
